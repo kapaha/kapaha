@@ -6,7 +6,7 @@ Hello I'm Kai 👋, a frontend developer currently looking for my first job oppo
 ----------------------------------
 
 ## Contact
-<a href="https://www.linkedin.com/in/kai-paterson-hall/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)</a>
+<a href="www.linkedin.com/in/kaipatersonhall">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)</a>
   
 ----------------------------------
   
