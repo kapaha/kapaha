@@ -1,7 +1,7 @@
 <div align="center">
 
 ## About
-Hello I'm Kai 👋, a web developer currently seeking job oppurtunities, I have created and worked on many projects to date using technologies such as HTML5, CSS3, Javascript, ReactJS, Vue, Nuxt, C# and SQL.
+Greetings! I'm Kai, a passionate web developer actively exploring new job opportunities. With a diverse range of projects under my belt, I have honed my skills in HTML5, CSS3, JavaScript, ReactJS, Vue, C#, and SQL. I thrive on transforming creative ideas into functional and visually appealing web applications. 
   
 ----------------------------------
 
