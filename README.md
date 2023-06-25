@@ -1,7 +1,7 @@
 <div align="center">
 
 ## About
-Hello I'm Kai 👋, a frontend developer currently looking for my first job opportunity, I have created many projects to date using technologies such as HTML5, CSS3, Javascript and ReactJS.
+Hello I'm Kai 👋, a web developer currently seeking job oppurtunities, I have created and worked on many projects to date using technologies such as HTML5, CSS3, Javascript, ReactJS, Vue, Nuxt, SQL and C#.
   
 ----------------------------------
 
